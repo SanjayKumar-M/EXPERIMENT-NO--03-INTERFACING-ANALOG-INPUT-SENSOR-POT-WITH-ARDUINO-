@@ -50,7 +50,8 @@ CIRCUIT DIAGRAM
 ![image](https://user-images.githubusercontent.com/36288975/163530788-eec3cdc3-95e8-4d2d-8349-6d0ea4c9439c.png)
 
 **FIGURE -01
-**
+**   <br>
+![image](https://github.com/SanjayKumar-M/Introduction-To-Rootics/blob/main/Screenshot%20(23).png)
 
 **PROCEDURE:**
 
@@ -98,8 +99,8 @@ void loop() {
 
 **
 **Simulation output:** 
-**
-
+**  <br>
+![image](https://github.com/SanjayKumar-M/Introduction-To-Rootics/blob/main/Screenshot%20(23).png)
 
 [My image](username.github.com/repository/img/image.jpg)
 
